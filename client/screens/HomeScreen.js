@@ -4,7 +4,7 @@ import { SafeAreaView } from 'react-native-safe-area-context'
 import { StatusBar } from 'expo-status-bar'
 import * as Icon from "react-native-feather";
 import { themeColors } from '../themes';
-import Categories from '../components/Categories';
+import Categories from '../components/Category';
 
 export default function HomeScreen() {
   return (
